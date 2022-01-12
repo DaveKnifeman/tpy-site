@@ -22,10 +22,10 @@ const sendMailUsingMailgun = (data) => {
   });
 
   const msg = {
-    from: data.email || 'info@technologyparkypenburg.nl',
-    to: 'info@technologyparkypenburg.nl',
+    from: data.email || 'info@technologyparkypenburg.com',
+    to: 'info@technologyparkypenburg.com',
     bcc: 'bart@tuxion.nl',
-    subject: 'Email from technologyparkypenburg.nl',
+    subject: 'Email from technologyparkypenburg.com',
     html: `${data.name} (${data.email}) sent the following message:<br /><hr /><br />` +
           data.message.replace("\n", '<br/>') + "<br /><br />"
   };

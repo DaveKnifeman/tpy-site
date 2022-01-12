@@ -94,7 +94,7 @@ function Campus() {
         image="/static/pages/campus/event-picture-2.jpg"
         imagePosition="right"
         title=""
-        text="<p>Let us know your needs and we would be delighted to help make your event a success, you can contact us via <a href='mailto:info@technologyparkypenburg.nl'>info@technologyparkypenburg.nl</a></p>"
+        text="<p>Let us know your needs and we would be delighted to help make your event a success, you can contact us via <a href='mailto:info@technologyparkypenburg.com'>info@technologyparkypenburg.com</a></p>"
         />
     </div>
 

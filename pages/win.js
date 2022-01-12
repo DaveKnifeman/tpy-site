@@ -40,7 +40,13 @@ function Campus() {
       />
 
     <IntroText>
-
+      <p>
+        TPY is hosting a pitch contest to win free use of the TPY Prototyping Center.
+        Join the contest today so you can make your prototype a reality in our
+        facilities! We have a dream that our prototyping center will help create
+        sustainable solutions for the future thanks to the bright minds of our region.
+        What is your dream?
+      </p>
       <Title
         align="center"
         style={{
@@ -101,7 +107,14 @@ function Campus() {
       </ul>
 
       <p>
-        Deadline: 1 December 2021 at 23.59
+        There is no deadline, however, there are a limited number of vouchers
+        which are handed out on a first come first served basis.
+      </p>
+
+      <p>
+        If you would like to see the Prototype Center before applying and check
+        out the machines, please contact <a href="mailto:info@technologyparkypenburg.com">info@technologyparkypenburg.com</a> to
+        schedule a tour.
       </p>
 
       <Title
@@ -114,7 +127,13 @@ function Campus() {
       </Title>
 
       <p>
-        3 winners will be selected from the pitch contest. You can win the following prizes: 1 day for free (minimum rent of 1 day), 1 week for free (minimum rent of 1 week), and 1 month for free (minimum rent of 1 month).
+        There are a limited number of vouchers which are handed out on a
+        first come first serve basis, so please apply as soon as you can.
+        Through the pitch contest, winners will be selected who have the
+        opportunity to win a voucher for 1 day, 1 week, and/or 1 month.
+        There is the possibility to apply for multiple vouchers and to
+        use them together or separately, whatever suits your prototype
+        idea!
       </p>
 
       <div align="center">
@@ -151,7 +170,7 @@ function Campus() {
             marginTop: '50px',
           }}
       >
-        Machines
+        Machines at the Prototype Center
       </Title>
 
       <div align="center">
