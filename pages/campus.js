@@ -98,36 +98,36 @@ function Campus() {
         />
     </div>
 
-    <div>
-      <Title style={{
-        padding: '45px 0px',
-        textAlign: 'center'
-      }}>
-        Rent a meeting space
-      </Title>
-      <div className="pricing-blocks-wrapper meeting-spaces">
-        <MeetingSpaceBlock
-          key={'meetingSpace1'}
-          variant="1"
-        />
-        <MeetingSpaceBlock
-          key={'meetingSpace2'}
-          variant="2"
-        />
-        <MeetingSpaceBlock
-          key={'meetingSpace3'}
-          variant="3"
-        />
-        <MeetingSpaceBlock
-          key={'meetingSpace3'}
-          variant="4"
-        />
-        <MeetingSpaceBlock
-          key={'meetingSpace3'}
-          variant="5"
-        />
-      </div>
-    </div>
+    {/*<div>*/}
+    {/*  <Title style={{*/}
+    {/*    padding: '45px 0px',*/}
+    {/*    textAlign: 'center'*/}
+    {/*  }}>*/}
+    {/*    Rent a meeting space*/}
+    {/*  </Title>*/}
+    {/*  <div className="pricing-blocks-wrapper meeting-spaces">*/}
+    {/*    <MeetingSpaceBlock*/}
+    {/*      key={'meetingSpace1'}*/}
+    {/*      variant="1"*/}
+    {/*    />*/}
+    {/*    <MeetingSpaceBlock*/}
+    {/*      key={'meetingSpace2'}*/}
+    {/*      variant="2"*/}
+    {/*    />*/}
+    {/*    <MeetingSpaceBlock*/}
+    {/*      key={'meetingSpace3'}*/}
+    {/*      variant="3"*/}
+    {/*    />*/}
+    {/*    <MeetingSpaceBlock*/}
+    {/*      key={'meetingSpace3'}*/}
+    {/*      variant="4"*/}
+    {/*    />*/}
+    {/*    <MeetingSpaceBlock*/}
+    {/*      key={'meetingSpace3'}*/}
+    {/*      variant="5"*/}
+    {/*    />*/}
+    {/*  </div>*/}
+    {/*</div>*/}
 
     <div>
       <FooterBanner

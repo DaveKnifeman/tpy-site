@@ -147,11 +147,15 @@ class Navigation extends Component {
         }],
       },
       {
+        title: 'Meetings & Events',
+        href: '/meeting-and-events'
+      },
+      {
         title: 'What is happening?',
         href: '/happening'
       },
       {
-        title: 'Pricing',
+        title: 'Memberships',
         href: '/pricing'
       },
       {

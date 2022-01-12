@@ -119,20 +119,20 @@ function Campus() {
 
       <div align="center">
 
-        <Title size="small">1st prize – Month Voucher</Title>
+        <Title size="small">Month Voucher</Title>
 
         <p>
           <img alt="1st prize image" src="/static/pages/win/prize-1.png" />
         </p>
 
-        <Title size="small">2nd prize – Week Voucher</Title>
+        <Title size="small">Week Voucher</Title>
 
         <p>
           <img alt="2st prize image" src="/static/pages/win/prize-2.jpg" />
         </p>
 
         
-        <Title size="small">3nd prize – Day Voucher</Title>
+        <Title size="small">Day Voucher</Title>
 
         <p>
           <img alt="3st prize image" src="/static/pages/win/prize-3.jpg" />
@@ -144,6 +144,54 @@ function Campus() {
       <p align="center">
         Send your 1 minute pitch to <a href="mailto:info@technologyparkypenburg.com" className="font-bold">info@technologyparkypenburg.com</a> explaining what you would like to prototype in our Prototype Center and you might win one of the prizes!
       </p>
+
+      <Title
+          align="center"
+          style={{
+            marginTop: '50px',
+          }}
+      >
+        Machines
+      </Title>
+
+      <div align="center">
+        <Title size="small">Belt Sander</Title>
+
+        <p>
+          <img alt="belt-sander" src="/static/pages/win/belt-sander.JPG" />
+        </p>
+
+        <Title size="small">Bending Machine</Title>
+
+        <p>
+          <img alt="belt-sander" src="/static/pages/win/bending-machine.JPG" />
+        </p>
+
+        <Title size="small">Band Saw</Title>
+
+        <p>
+          <img alt="belt-sander" src="/static/pages/win/band-saw.JPG" />
+        </p>
+
+        <Title size="small">Drill Press</Title>
+
+        <p>
+          <img alt="belt-sander" src="/static/pages/win/drill-press.JPG" />
+        </p>
+
+        <Title size="small">Lathe</Title>
+
+        <p>
+          <img alt="belt-sander" src="/static/pages/win/lathe.JPG" />
+        </p>
+
+        <Title size="small">Plate Roll</Title>
+
+        <p>
+          <img alt="belt-sander" src="/static/pages/win/plate-roll.JPG" />
+        </p>
+
+      </div>
 
     </IntroText>
 

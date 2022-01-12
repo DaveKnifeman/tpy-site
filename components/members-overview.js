@@ -89,6 +89,16 @@ const members = [
     title: 'Somni',
     url: 'https://www.somnisolutions.com',
     image: 'somni.webp'
+  },
+  {
+    title: 'Holland Innovative',
+    url: 'https://www.holland-innovative.nl',
+    image: 'holland-innovative.jpg'
+  },
+  {
+    title: 'Spearhead Interactive',
+    url: 'https://www.spearheadinteractive.com',
+    image: 'spearhead-interactive.png'
   }
 ];
 
