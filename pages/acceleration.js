@@ -42,7 +42,10 @@ function Acceleration() {
         Students can easily access TPY, as our campus is conveniently located between The Hague and Delft. Come visit TPY by bike or take the bus or tram (tram stop Laan van Ypenburg)!
       </p>
       <p>
-        Interested in becoming a part of the TPY Community? We got you covered! If you’re a   student you receive a 50% discount on your membership. This means you can become  a member of the TPY community for 28.50 p/m excl. 21% VAT! More information can   be found on our <a href="https://www.technologyparkypenburg.nl/pricing" target="_blank">Pricing</a> page.
+        Interested in becoming a part of the TPY Community? We got you covered!
+        If you’re a student you receive a 50% discount on your membership.
+        This means you can become a member of the TPY community for 28.50 p/m
+        excl. 21% VAT! More information can be found on our <a href="/pricing">Membership page</a>.
       </p>
     </IntroText>
 

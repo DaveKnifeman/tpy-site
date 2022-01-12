@@ -468,34 +468,34 @@ class Pricing extends Component {
       <div className="pricing-blocks-wrapper">
         {R.map((membershipPart1) => <PricingBlock handleIsActive={this.handleIsActive} key={membershipPart1.name} data={membershipPart1} />, membershipsPart1)}
       </div>
-      <Title style={{
-        padding: '45px 0px',
-        textAlign: 'center'
-      }}>
-        Rent a meeting space
-      </Title>
-      <div className="pricing-blocks-wrapper meeting-spaces">
-        <MeetingSpaceBlock
-          key={'meetingSpace1'}
-          variant="1"
-        />
-        <MeetingSpaceBlock
-          key={'meetingSpace2'}
-          variant="2"
-        />
-        <MeetingSpaceBlock
-          key={'meetingSpace3'}
-          variant="3"
-        />
-        <MeetingSpaceBlock
-          key={'meetingSpace3'}
-          variant="4"
-        />
-        <MeetingSpaceBlock
-          key={'meetingSpace3'}
-          variant="5"
-        />
-      </div>
+      {/*<Title style={{*/}
+      {/*  padding: '45px 0px',*/}
+      {/*  textAlign: 'center'*/}
+      {/*}}>*/}
+      {/*  Rent a meeting space*/}
+      {/*</Title>*/}
+      {/*<div className="pricing-blocks-wrapper meeting-spaces">*/}
+      {/*  <MeetingSpaceBlock*/}
+      {/*    key={'meetingSpace1'}*/}
+      {/*    variant="1"*/}
+      {/*  />*/}
+      {/*  <MeetingSpaceBlock*/}
+      {/*    key={'meetingSpace2'}*/}
+      {/*    variant="2"*/}
+      {/*  />*/}
+      {/*  <MeetingSpaceBlock*/}
+      {/*    key={'meetingSpace3'}*/}
+      {/*    variant="3"*/}
+      {/*  />*/}
+      {/*  <MeetingSpaceBlock*/}
+      {/*    key={'meetingSpace3'}*/}
+      {/*    variant="4"*/}
+      {/*  />*/}
+      {/*  <MeetingSpaceBlock*/}
+      {/*    key={'meetingSpace3'}*/}
+      {/*    variant="5"*/}
+      {/*  />*/}
+      {/*</div>*/}
       <div>
         <FooterBanner
           title="Come and see for yourself what Technology Park Ypenburg has to offer you!"

@@ -94,40 +94,40 @@ function Campus() {
         image="/static/pages/campus/event-picture-2.jpg"
         imagePosition="right"
         title=""
-        text="<p>Let us know your needs and we would be delighted to help make your event a success, you can contact us via <a href='mailto:info@technologyparkypenburg.nl'>info@technologyparkypenburg.nl</a></p>"
+        text="<p>Let us know your needs and we would be delighted to help make your event a success, you can contact us via <a href='mailto:info@technologyparkypenburg.com'>info@technologyparkypenburg.com</a></p>"
         />
     </div>
 
-    <div>
-      <Title style={{
-        padding: '45px 0px',
-        textAlign: 'center'
-      }}>
-        Rent a meeting space
-      </Title>
-      <div className="pricing-blocks-wrapper meeting-spaces">
-        <MeetingSpaceBlock
-          key={'meetingSpace1'}
-          variant="1"
-        />
-        <MeetingSpaceBlock
-          key={'meetingSpace2'}
-          variant="2"
-        />
-        <MeetingSpaceBlock
-          key={'meetingSpace3'}
-          variant="3"
-        />
-        <MeetingSpaceBlock
-          key={'meetingSpace3'}
-          variant="4"
-        />
-        <MeetingSpaceBlock
-          key={'meetingSpace3'}
-          variant="5"
-        />
-      </div>
-    </div>
+    {/*<div>*/}
+    {/*  <Title style={{*/}
+    {/*    padding: '45px 0px',*/}
+    {/*    textAlign: 'center'*/}
+    {/*  }}>*/}
+    {/*    Rent a meeting space*/}
+    {/*  </Title>*/}
+    {/*  <div className="pricing-blocks-wrapper meeting-spaces">*/}
+    {/*    <MeetingSpaceBlock*/}
+    {/*      key={'meetingSpace1'}*/}
+    {/*      variant="1"*/}
+    {/*    />*/}
+    {/*    <MeetingSpaceBlock*/}
+    {/*      key={'meetingSpace2'}*/}
+    {/*      variant="2"*/}
+    {/*    />*/}
+    {/*    <MeetingSpaceBlock*/}
+    {/*      key={'meetingSpace3'}*/}
+    {/*      variant="3"*/}
+    {/*    />*/}
+    {/*    <MeetingSpaceBlock*/}
+    {/*      key={'meetingSpace3'}*/}
+    {/*      variant="4"*/}
+    {/*    />*/}
+    {/*    <MeetingSpaceBlock*/}
+    {/*      key={'meetingSpace3'}*/}
+    {/*      variant="5"*/}
+    {/*    />*/}
+    {/*  </div>*/}
+    {/*</div>*/}
 
     <div>
       <FooterBanner

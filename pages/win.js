@@ -40,7 +40,13 @@ function Campus() {
       />
 
     <IntroText>
-
+      <p>
+        TPY is hosting a pitch contest to win free use of the TPY Prototyping Center.
+        Join the contest today so you can make your prototype a reality in our
+        facilities! We have a dream that our prototyping center will help create
+        sustainable solutions for the future thanks to the bright minds of our region.
+        What is your dream?
+      </p>
       <Title
         align="center"
         style={{
@@ -101,7 +107,14 @@ function Campus() {
       </ul>
 
       <p>
-        Deadline: 1 December 2021 at 23.59
+        There is no deadline, however, there are a limited number of vouchers
+        which are handed out on a first come first served basis.
+      </p>
+
+      <p>
+        If you would like to see the Prototype Center before applying and check
+        out the machines, please contact <a href="mailto:info@technologyparkypenburg.com">info@technologyparkypenburg.com</a> to
+        schedule a tour.
       </p>
 
       <Title
@@ -114,25 +127,31 @@ function Campus() {
       </Title>
 
       <p>
-        3 winners will be selected from the pitch contest. You can win the following prizes: 1 day for free (minimum rent of 1 day), 1 week for free (minimum rent of 1 week), and 1 month for free (minimum rent of 1 month).
+        There are a limited number of vouchers which are handed out on a
+        first come first serve basis, so please apply as soon as you can.
+        Through the pitch contest, winners will be selected who have the
+        opportunity to win a voucher for 1 day, 1 week, and/or 1 month.
+        There is the possibility to apply for multiple vouchers and to
+        use them together or separately, whatever suits your prototype
+        idea!
       </p>
 
       <div align="center">
 
-        <Title size="small">1st prize – Month Voucher</Title>
+        <Title size="small">Month Voucher</Title>
 
         <p>
           <img alt="1st prize image" src="/static/pages/win/prize-1.png" />
         </p>
 
-        <Title size="small">2nd prize – Week Voucher</Title>
+        <Title size="small">Week Voucher</Title>
 
         <p>
           <img alt="2st prize image" src="/static/pages/win/prize-2.jpg" />
         </p>
 
         
-        <Title size="small">3nd prize – Day Voucher</Title>
+        <Title size="small">Day Voucher</Title>
 
         <p>
           <img alt="3st prize image" src="/static/pages/win/prize-3.jpg" />
@@ -144,6 +163,54 @@ function Campus() {
       <p align="center">
         Send your 1 minute pitch to <a href="mailto:info@technologyparkypenburg.com" className="font-bold">info@technologyparkypenburg.com</a> explaining what you would like to prototype in our Prototype Center and you might win one of the prizes!
       </p>
+
+      <Title
+          align="center"
+          style={{
+            marginTop: '50px',
+          }}
+      >
+        Machines at the Prototype Center
+      </Title>
+
+      <div align="center">
+        <Title size="small">Belt Sander</Title>
+
+        <p>
+          <img alt="belt-sander" src="/static/pages/win/belt-sander.JPG" />
+        </p>
+
+        <Title size="small">Bending Machine</Title>
+
+        <p>
+          <img alt="belt-sander" src="/static/pages/win/bending-machine.JPG" />
+        </p>
+
+        <Title size="small">Band Saw</Title>
+
+        <p>
+          <img alt="belt-sander" src="/static/pages/win/band-saw.JPG" />
+        </p>
+
+        <Title size="small">Drill Press</Title>
+
+        <p>
+          <img alt="belt-sander" src="/static/pages/win/drill-press.JPG" />
+        </p>
+
+        <Title size="small">Lathe</Title>
+
+        <p>
+          <img alt="belt-sander" src="/static/pages/win/lathe.JPG" />
+        </p>
+
+        <Title size="small">Plate Roll</Title>
+
+        <p>
+          <img alt="belt-sander" src="/static/pages/win/plate-roll.JPG" />
+        </p>
+
+      </div>
 
     </IntroText>
 
